@@ -37,7 +37,7 @@ PyJWT==2.8.0
 pyotp==2.9.0
 python-dotenv==1.0.1
 python3-openid==3.2.0
-PyYAML==6.0.1
+PyYAML==6.0.2
 referencing==0.34.0
 requests==2.31.0
 requests-oauthlib==2.0.0
